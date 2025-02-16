@@ -52,3 +52,6 @@
 
 ### 15. Find All Characters Who Don’t Have an Artifact
 ![Find All Characters Who Don’t Have an Artifact](https://github.com/mayrituals/LOTR-SQL-PRACTICE/blob/main/assets/LOTR17.png?raw=true)
+
+### 16. Who are the Ring-bearers that are not Hobbits
+![Who are the Ring-bearers that are not Hobbits](https://github.com/mayrituals/LOTR-SQL-PRACTICE/blob/main/assets/LOTR18.png?raw=true)
